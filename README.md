@@ -27,14 +27,14 @@ same solution.
 		bicycle/motorbike. So, it is better to apply object detection models to check whether a
 		worker is wearing a helmet or not. The model is below:
 			Library Dependencies:
-			1. Pytorch >= 1.6.0
-			2. Fastai <= 1.0.61
-			3. Object-Detection-Fastai <= 0.0.9
-			4. OpenCV >= 3.x
-			5. Xml
-			6. Numpy
-			7. Pandas
-			8. Sklearn
+			a. Pytorch >= 1.6.0
+			b. Fastai <= 1.0.61
+			c. Object-Detection-Fastai <= 0.0.9
+			d. OpenCV >= 3.x
+			e. Xml
+			f. Numpy
+			g. Pandas
+			h. Sklearn
 			Hardware Dependencies:
 			1. Camera Infrared Enabled (For Night)
 			2. Internet
